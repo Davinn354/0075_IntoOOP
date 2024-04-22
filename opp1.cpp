@@ -24,6 +24,6 @@ class bangunDatar{
         void display(){
             cout << "Panjangnya = " << Panjang << endl;
             cout << "Lebarnya = " << Lebar << endl;
-            
+            cout << "Luasnya = "<< hitungLuas() << endl;
         }
 };
