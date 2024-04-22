@@ -19,6 +19,9 @@ class bangunDatar{
 
         float hitungLuas (){
             return Panjang * Lebar;
+        }
+
+        void display(){
             
         }
 };
